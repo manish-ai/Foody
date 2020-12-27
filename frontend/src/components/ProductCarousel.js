@@ -16,7 +16,7 @@ const ProductCarousel = () => {
     },
     {
       title: " Italian",
-      img: "carousel/italian.jpg",
+      img: "carousel/Italian.jpg",
     },
     {
       title: "Chilled",
@@ -24,7 +24,7 @@ const ProductCarousel = () => {
     },
     {
       title: "Chinese",
-      img: "carousel/chinese.jpg",
+      img: "carousel/Chinese.jpg",
     },
     {
       title: "Cake",
