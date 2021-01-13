@@ -3,17 +3,29 @@
   "name": "Food Delivery Application",
   "icons": [
     {
+<<<<<<< HEAD
       "src": "favicon.png",
+=======
+      "src": "fa-icon3.png",
+>>>>>>> 54f79c48044858b3e5cf4d8f3c7efaa69243d880
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
+<<<<<<< HEAD
       "src": "favicon.png",
+=======
+      "src": "fa-icon3.png",
+>>>>>>> 54f79c48044858b3e5cf4d8f3c7efaa69243d880
       "type": "image/png",
       "sizes": "192x192"
     },
     {
+<<<<<<< HEAD
       "src": "favicon.png",
+=======
+      "src": "fa-icon3.png",
+>>>>>>> 54f79c48044858b3e5cf4d8f3c7efaa69243d880
       "type": "image/png",
       "sizes": "512x512"
     }
