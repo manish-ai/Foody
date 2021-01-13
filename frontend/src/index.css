@@ -1,19 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 main {
   min-height: 80vh;
+}
+body{
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
 }
 
 h3 {
   padding: 1rem 0;
+  /* font-family: Muli,sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
   font-size: 1.8rem;
+  /* font-family: Muli,sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
   padding: 1rem 0;
 }
 
 h2 {
   font-size: 1.4rem;
   padding: 0.5rem 0;
+  /* font-family: Muli,sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .rating span {
@@ -81,7 +102,7 @@ color: #282c3f;
 .centered {
   position: absolute;
   top: 91%;
-  left:82%;
+  left:50%;
 word-break: break-word;
   transform: translate(-50%, -50%);
   line-height: 1.5;
@@ -108,7 +129,7 @@ background-color: #171a29
 .cart-btn{
   margin-top: 5px;
   width: 115%;
-  border-radius: 4%;
+  border-radius: 4% !important;
   padding: 8px 0;
   margin-left: -15px;
   background-color:rgb(235, 52, 74);
@@ -131,4 +152,8 @@ background-color: #171a29
 }
 .cart-btn1:hover{
   background-color: rgb(207, 57, 75);
+}
+.btn-primary{
+  border-radius: 6%;
+
 }

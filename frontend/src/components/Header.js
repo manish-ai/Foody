@@ -88,10 +88,10 @@ const Header = () => {
 
       <NavWrapper >
         <div className=" ml-5 mr-5">
-          <nav className="navbar navbar-expand-samll navbar-dark  navbar1">
+          <nav className="navbar navbar-expand-samll navbar-dark  navbar1 ">
 
-            <Link to='/' className="nav-link col-xs-2 mr-auto" >
-              <h1 > <span className="text-center  shop"><img src="\Assets\foody3.png" alt="$"></img></span></h1>
+            <Link to='/' className="nav-link col-xs-2 m-auto " >
+              <h1 > <span className="text-center  shop mr-5"><img src="\Assets\logo.png" alt="$"></img></span></h1>
             </Link>
 
             <span className="search-container m-auto">
@@ -197,7 +197,7 @@ img{
     white-space: nowrap;
 }
 .location{
-    color: rgb(237, 90, 107) !important;
+    color: rgb(235, 52, 74) !important;
     font-size: 1.28rem;
     font-weight: 600;
     margin-top: -10px !important;
@@ -205,7 +205,7 @@ img{
 }
 #lblCartCount {
     font-size: 14px;
-    background: rgb(237, 90, 107);
+    background: rgb(235, 52, 74);
     color: #fff;
     padding: 1px 5px;
     vertical-align: top;
@@ -272,7 +272,7 @@ img{
         border-radius: 0.5rem;
         line-height:3;
         margin-top: -4px;
-        background: rgb(237, 90, 107);
+        background: rgb(235, 52, 74);
         color: white;
         font-weight: 700;
         margin-left: 0px;
@@ -349,8 +349,8 @@ img{
         font-size: 0.4em !important;
     }
     .shop{
-    height: 36px !important;
-    width:120px !important;
+    height: 46px !important;
+    width:190px !important;
     }
 }
 

@@ -2,6 +2,10 @@
 
 # dependencies
 /node_modules
+<<<<<<< HEAD
+/frontend/node_modules
+=======
+>>>>>>> 54f79c48044858b3e5cf4d8f3c7efaa69243d880
 /.pnp
 .pnp.js
 
@@ -10,7 +14,11 @@
 
 # production
 /build
+<<<<<<< HEAD
+
+=======
 /frontend/node_modules
+>>>>>>> 54f79c48044858b3e5cf4d8f3c7efaa69243d880
 # misc
 # .DS_Store
 # .env
