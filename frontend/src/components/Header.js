@@ -349,8 +349,8 @@ img{
         font-size: 0.4em !important;
     }
     .shop{
-    height: 36px !important;
-    width:120px !important;
+    height: 46px !important;
+    width:190px !important;
     }
 }
 
